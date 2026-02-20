@@ -1,0 +1,8 @@
+{
+  "name": "QuickLearner Language App",
+  "description": "A language learning experience with a fluid splash screen, personalized onboarding flow, and a guiding jaguar mascot.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
